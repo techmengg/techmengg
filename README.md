@@ -4,8 +4,8 @@ const tm = {
   tools: ["react", "node", "next", "express", "sql", "tensorflow", "figma"],
   techCommunities: {
                         organizations: "synapsis",
-                        roles: "software Developer",
+                        roles: "software developer",
                       },
- challenge: "i am aiming to become proficient in leetCode and dsa."
+ challenge: "i am aiming to become proficient in leetcode and dsa."
 }
 ```
