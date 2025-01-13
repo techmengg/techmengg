@@ -1,11 +1,11 @@
 ```javascript
 const tm = {
-  code: ["java", "python", "c++", "html/css", "javascript", "dart"],
-  tools: ["react", "node", "next", "express", "bootstrap", "sql", "tensorflow", "figma"],
+  code: ["java", "python", "c++", "html/css", "javascript"],
+  tools: ["react", "node", "next", "express", "sql", "tensorflow", "figma"],
   techCommunities: {
-                        organizations: "Synapsis",
-                        roles: "Software Developer",
+                        organizations: "synapsis",
+                        roles: "software Developer",
                       },
- challenge: "I am aiming to become proficient in LeetCode and DSA."
+ challenge: "i am aiming to become proficient in leetCode and dsa."
 }
 ```
