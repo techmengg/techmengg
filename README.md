@@ -6,6 +6,6 @@ const tm = {
                         organizations: "synapsis & qgdc",
                         roles: "software developer & backend developer",
                       },
-  challenge: "proficiency in leetcode and data structures and algorithm."
+  challenge: "proficiency in leetcode and data structures & algorithm."
 }
 ```
