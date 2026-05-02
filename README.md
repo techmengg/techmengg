@@ -1,6 +1,6 @@
 hi im techmeng, i study cs and stats at queen's university
 
-swe @ <a href="https://cloverlabs.ai/" target="_blank" rel="noopener noreferrer">clover labs</a>
+software engineer @ <a href="https://cloverlabs.ai/" target="_blank" rel="noopener noreferrer">clover labs</a>
 
 engineering manager @ <a href="https://www.developforgood.org/" target="_blank" rel="noopener noreferrer">develop for good</a>
 
