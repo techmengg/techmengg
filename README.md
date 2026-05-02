@@ -1,8 +1,8 @@
 hi im techmeng, i study cs and stats at queen's university
 
-incoming swe intern @ <a href="https://cloverlabs.ai/" target="_blank" rel="noopener noreferrer">clover labs</a>
+swe @ <a href="https://cloverlabs.ai/" target="_blank" rel="noopener noreferrer">clover labs</a>
 
-engineering mentor @ <a href="https://www.developforgood.org/" target="_blank" rel="noopener noreferrer">develop for good</a>
+engineering manager @ <a href="https://www.developforgood.org/" target="_blank" rel="noopener noreferrer">develop for good</a>
 
 building systems and platforms for organizations (<a href="https://qset.ca/" target="_blank" rel="noopener noreferrer">qset</a>, <a href="https://www.qgdc.ca/" target="_blank" rel="noopener noreferrer">qgdc</a>, <a href="https://compsa.ca/" target="_blank" rel="noopener noreferrer">compsa</a>, <a href="https://www.synap.ca/" target="_blank" rel="noopener noreferrer">sn</a>, <a href="https://qhacks.io/" target="_blank" rel="noopener noreferrer">qhacks</a>)  
 
